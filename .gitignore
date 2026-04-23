@@ -1,0 +1,6 @@
+# Claude Code skills — pinned in skills-lock.json, restored via `npx skills experimental_install`
+.agents/skills/
+.claude/skills/
+
+# Claude local settings (machine-specific)
+.claude/settings.local.json

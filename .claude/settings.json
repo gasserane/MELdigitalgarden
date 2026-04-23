@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "npx -y skills experimental_install"
+          }
+        ]
+      }
+    ]
+  }
+}
