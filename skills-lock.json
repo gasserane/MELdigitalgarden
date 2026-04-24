@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "skills": {
+    "brand-guidelines": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "e48840db6ea772ceecdb68b4e50f8cc77e2534b7580aeaf4a6fe6ee7bd845d7d"
+    },
+    "daily-brief": {
+      "source": "gasserane/personal-skills",
+      "sourceType": "github",
+      "computedHash": "18ab93e4ac6f2ac405c59d0080d93293e72a2b0d8e2202cbb39a244dbe8b19c6"
+    },
+    "decision-memo": {
+      "source": "gasserane/personal-skills",
+      "sourceType": "github",
+      "computedHash": "10459cfc4129c73bc5f65ed94eb0465bc8568cc11253068acd1ee332ce586d80"
+    },
+    "doc-coauthoring": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "b964e4c3ffe13f66f76dd7919073e60c7aec622cd8a8363bb36323188100cf8e"
+    },
+    "docx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "6962db07127ee540a56e4677f65576d0727668a1d67f7da8bc978f10791c2bfe"
+    },
+    "evidence-synthesis": {
+      "source": "gasserane/personal-skills",
+      "sourceType": "github",
+      "computedHash": "60a8b11ed04d433064fc3a266c797fde4c1e5683e528d23e9bf1a0b8fc552951"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "063a0e6448123cd359ad0044cc46b0e490cc7964d45ef4bb9fd842bd2ffbca67"
+    },
+    "indicator-designer": {
+      "source": "gasserane/personal-skills",
+      "sourceType": "github",
+      "computedHash": "a650e4fb8be514100a96dab05c1b49f5e18fb898d8487067ccb53ef68561ca58"
+    },
+    "internal-comms": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "0bdc8867452b7ab9ef6167f6b0db2025ce5fb03773d3f85efcef2dfeb9d4976d"
+    },
+    "journal-reflection": {
+      "source": "gasserane/personal-skills",
+      "sourceType": "github",
+      "computedHash": "cf4ea538ee01cbc220282ffcf1ecd999803e61e4124e10a70464960d05e07956"
+    },
+    "mcp-builder": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "826e46adf81e1372282e205c34e1a2ee876e72148007726e4a2512599d2fef7b"
+    },
+    "mel-framework-citation": {
+      "source": "gasserane/personal-skills",
+      "sourceType": "github",
+      "computedHash": "375ef7128c774436cf7efbcfe93173d1a991e0ea623b61199205130a7055c7bf"
+    },
+    "pdf": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "cfbc539377088ca7e44a813b30c306327385bbd973cd7a721e1743f60837dd62"
+    },
+    "pptx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "6b8b859d26f93aa059c9870d1ab76b44ab69e3d6757ce4a03cc94cb760888073"
+    },
+    "skill-creator": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "5ea13a6d9f0d4bb694405d79acd00cadec0d21bb138c4dd10fcf3c500cb835c2"
+    },
+    "toc-builder": {
+      "source": "gasserane/personal-skills",
+      "sourceType": "github",
+      "computedHash": "aa14aa2ac1ce66ae3e804e6ff809d183b5b5b3615444bfd9774a50e6106c34ee"
+    },
+    "webapp-testing": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "ad5b1fc52807e9afa4635e59218a026b164dc58b6c3f41b0f7c644dcd6ccf572"
+    },
+    "xlsx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "efd0c8011cf0677d8075cf93867ecec804f9a8754a777e1d2fdb46197e9c247f"
+    }
+  }
+}
