@@ -1,6 +1,11 @@
 {
   "version": 1,
   "skills": {
+    "ane-voice": {
+      "source": "gasserane/personal-skills",
+      "sourceType": "github",
+      "computedHash": "e819c2e0e1d9086367ff56508e66c73f2a3313fbf138eca7d4fbd54eb52e6e33"
+    },
     "brand-guidelines": {
       "source": "anthropics/skills",
       "sourceType": "github",
